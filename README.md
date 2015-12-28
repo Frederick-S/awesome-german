@@ -7,6 +7,7 @@ A curated list of awesome German language resources.
 * [Collins](http://www.collinsdictionary.com/dictionary/german-english)
 * [The Free Dictionary](http://de.thefreedictionary.com/)
 * [Wiktionary](https://de.wiktionary.org/wiki/Wiktionary:Hauptseite)
+* [DWDS](http://www.dwds.de/) - das Digitale Wörterbuch der deutschen Sprache
 
 ## News
 * [Die Welt](http://www.welt.de/)
