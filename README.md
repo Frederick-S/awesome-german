@@ -24,6 +24,7 @@ A curated list of awesome German language resources.
 
 ## E-Books
 * [Amazon Kindle eBooks](http://www.amazon.de/ebooks-kindle-buecher/b/ref=nav_shopall_kbo4?ie=UTF8&node=530886031)
+* [Springer](http://link.springer.com/search?facet-content-type=%22Book%22&showAll=false&facet-language=%22De%22)
 
 ## Audio Books
 * [vorleser.net](http://vorleser.net/)
