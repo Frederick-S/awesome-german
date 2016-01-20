@@ -39,6 +39,7 @@ A curated list of awesome German language resources.
 ## Blog
 * [German is easy](http://yourdailygerman.wordpress.com/)
 * [Slow German](http://slowgerman.com/)
+* [Nancy Thuleen](http://www.nthuleen.com/index.html)
 
 ## Misc
 * [deutsch-to-go](http://www.deutsch-to-go.de/) - eine Seite zum Trainieren des Hörverstehens
