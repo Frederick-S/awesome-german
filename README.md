@@ -8,6 +8,8 @@ A curated list of awesome German language resources.
 * [The Free Dictionary](http://de.thefreedictionary.com/)
 * [Wiktionary](https://de.wiktionary.org/wiki/Wiktionary:Hauptseite)
 * [DWDS](http://www.dwds.de/) - das Digitale Wörterbuch der deutschen Sprache
+* [canoonet](http://www.canoo.net/) - Der Suchdienst zur Rechtschreibung, Flexion und Wortbildung sowie Grammatik für Deutsch ist ein umfassendes Nachschlagewerk zur deutschen Sprache.
+* [Langenscheidt](http://en.langenscheidt.com/german-english/)
 
 ## News
 * [Die Welt](http://www.welt.de/)
@@ -40,3 +42,4 @@ A curated list of awesome German language resources.
 
 ## Misc
 * [deutsch-to-go](http://www.deutsch-to-go.de/) - eine Seite zum Trainieren des Hörverstehens
+* [A Review of German Grammar](https://www.dartmouth.edu/~deutsch/Grammatik/Grammatik.html)
