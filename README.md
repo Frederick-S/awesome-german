@@ -11,6 +11,9 @@ A curated list of awesome German language resources.
 * [canoonet](http://www.canoo.net/) - Der Suchdienst zur Rechtschreibung, Flexion und Wortbildung sowie Grammatik für Deutsch ist ein umfassendes Nachschlagewerk zur deutschen Sprache.
 * [Langenscheidt](http://en.langenscheidt.com/german-english/)
 
+## Grammar
+* [German for english speakers](http://germanforenglishspeakers.com)
+
 ## News
 * [Die Welt](http://www.welt.de/)
 * [Spiegel Online](http://www.spiegel.de/)
