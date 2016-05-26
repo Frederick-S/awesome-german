@@ -13,6 +13,7 @@ A curated list of awesome German language resources.
 
 ## Grammar
 * [German for english speakers](http://germanforenglishspeakers.com)
+* [A Review of German Grammar](https://www.dartmouth.edu/~deutsch/Grammatik/Grammatik.html)
 
 ## News
 * [Die Welt](http://www.welt.de/)
@@ -43,7 +44,7 @@ A curated list of awesome German language resources.
 * [German is easy](http://yourdailygerman.wordpress.com/)
 * [Slow German](http://slowgerman.com/)
 * [Nancy Thuleen](http://www.nthuleen.com/index.html)
+* [deutschlernerblog](http://deutschlernerblog.de/) - für alle, die Deutsch lernen
 
 ## Misc
 * [deutsch-to-go](http://www.deutsch-to-go.de/) - eine Seite zum Trainieren des Hörverstehens
-* [A Review of German Grammar](https://www.dartmouth.edu/~deutsch/Grammatik/Grammatik.html)
