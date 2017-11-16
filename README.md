@@ -10,6 +10,7 @@ A curated list of awesome German language resources.
 * [DWDS](http://www.dwds.de/) - das Digitale Wörterbuch der deutschen Sprache
 * [canoonet](http://www.canoo.net/) - Der Suchdienst zur Rechtschreibung, Flexion und Wortbildung sowie Grammatik für Deutsch ist ein umfassendes Nachschlagewerk zur deutschen Sprache.
 * [Langenscheidt](http://en.langenscheidt.com/german-english/)
+* [Linguee](https://www.linguee.com/german-english/)
 
 ## Grammar
 * [German for english speakers](http://germanforenglishspeakers.com)
@@ -31,6 +32,7 @@ A curated list of awesome German language resources.
 ## E-Books
 * [Amazon Kindle eBooks](http://www.amazon.de/ebooks-kindle-buecher/b/ref=nav_shopall_kbo4?ie=UTF8&node=530886031)
 * [Springer](http://link.springer.com/search?facet-content-type=%22Book%22&showAll=false&facet-language=%22De%22)
+* [Bilinguis.com](http://bilinguis.com/) - free bilingual books (+ Audio)
 
 ## Audio Books
 * [vorleser.net](http://vorleser.net/)
@@ -45,6 +47,9 @@ A curated list of awesome German language resources.
 * [Slow German](http://slowgerman.com/)
 * [Nancy Thuleen](http://www.nthuleen.com/index.html)
 * [deutschlernerblog](http://deutschlernerblog.de/) - für alle, die Deutsch lernen
+
+## Video
+* [Bs.to](https://bs.to/) - TV Shows & movies online in German language
 
 ## Misc
 * [deutsch-to-go](http://www.deutsch-to-go.de/) - eine Seite zum Trainieren des Hörverstehens
