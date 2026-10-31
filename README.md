@@ -28,6 +28,7 @@ A curated list of awesome German language resources.
 * [Deutsche Welle](http://www.dw.com/en/learn-german/s-2469)
 * [Lingolía](https://deutsch.lingolia.com/en/)
 * [duolingo](https://en.duolingo.com/course/de/en/Learn-German-Online)
+* [Speeku](https://www.speeku.com/) - gamified app with bite-sized lessons in Swiss German (Schwizerdütsch), every word spoken aloud and a dictionary behind each; one-time payment, fully offline
 
 ## E-Books
 * [Amazon Kindle eBooks](http://www.amazon.de/ebooks-kindle-buecher/b/ref=nav_shopall_kbo4?ie=UTF8&node=530886031)
